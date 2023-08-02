@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @david-john-williams
 - 👀 I’m interested in cloud computing and all things cloud. AWS, Azure, GCP, or any other cloud provider!
-- 🌱 I’m currently learning AWS.
